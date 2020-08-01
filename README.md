@@ -1,1 +1,1 @@
-EddiePaints website.
+EddiePaints website. Utilizing Svelte and Sapper.
